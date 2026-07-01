@@ -77,7 +77,7 @@ The game provides a menu-driven experience with different game states, including
 
 ## Notes
 
-This project appears to be an educational or hobby game project and may be updated over time. If you want to extend it, the most natural places to start are:
+This project appears to be an educational game project and may be updated over time. If you want to extend it, the most natural places to start are:
 
 - `src/levels/` for level logic
 - `src/entities/` for player/enemy behavior
